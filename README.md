@@ -8,4 +8,6 @@ This Dashboard is built using Dash, which is a framework for building web-based 
 To run this app on local machine simply download this notebook and run all cells in order and visit localhost:8050 in your browser.
 
 There is a problem in the Recovered Dataset, the numbers are not correct
-image.png
+
+![image](https://user-images.githubusercontent.com/63841637/144703260-cefd9171-c643-4324-95f6-cb7472b6e6d5.png)
+
